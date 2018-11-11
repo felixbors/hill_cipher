@@ -1,0 +1,7 @@
+#ifndef HILL_CIPHER_DECRYPT_H
+#define HILL_CIPHER_DECRYPT_H
+
+
+
+
+#endif //HILL_CIPHER_DECRYPT_H
